@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="1" failures="0" name="cucumber.Options.TestRunner" time="12.425" errors="0" skipped="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="cucumber.options" value="--tags @deleteplace"/>
+    <property name="java.vm.version" value="15.0.1+9-18"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-15.0.1\bin"/>
+    <property name="maven.multiModuleProjectDirectory" value="E:\Automation_Practice\APIFrameworkBDD"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="E:\Automation_Practice\APIFrameworkBDD"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="java.runtime.version" value="15.0.1+9-18"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\HARIPR~1\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="E:\Maven\apache-maven-3.8.2-bin\apache-maven-3.8.2\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-15.0.1\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Java\jdk-15.0.1/bin;C:\Program Files\Java\jdk-15.0.1/bin;C:\Program Files\Microsoft MPI\Bin\;C:\Python\Python37\Scripts\;C:\Python\Python37\;C:\Python\Python38\Scripts\;C:\Python\Python38\;C:\Python\Python36\Scripts\;C:\Python\Python36\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\MinGW\bin;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk-15.0.1\bin;C:\spark\scala\bin;C:\spark\spark\bin;&quot;C:\Spark\spark\bin;C:\Spark\spark\python;C:\Program Files\Microsoft MPI\Bin\;C:\Python\Python37\Scripts\;C:\Python\Python37\;C:\Python\Python38\Scripts\;C:\Python\Python38\;C:\Python\Python36\Scripts\;C:\Python\Python36\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\MinGW\bin;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk-15.0.1\bin;C:\spark\scala\bin;C:\spark\spark\bin;&quot;C:\Spark\spark\bin;C:\Spark\spark\python;C:\Program Files\Microsoft MPI\Bin\;C:\Python\Python37\Scripts\;C:\Python\Python37\;C:\Python\Python38\Scripts\;C:\Python\Python38\;C:\Python\Python36\Scripts\;C:\Python\Python36\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\MinGW\bin;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk-15.0.1\bin;C:\spark\scala\bin;C:\spark\spark\bin;&quot;%SPARK_HOME%\bin;%SPARK_HOME%\python;%PATH%&quot;;D:\Git\Git\cmd;E:\Maven\apache-maven-3.8.2-bin\apache-maven-3.8.2\bin;E:\PYTHON_BDD\Python Bdd Demo\venv\Scripts;E:\PYTHON_BDD\Python Bdd Demo\venv\Lib\site-packages\allure_commons;E:\allure\allure-2.15.0\allure-2.15.0\bin;C:\Windows.old\Users\hari prasad\AppData\Local\hyper\app-3.0.2\resources\bin;C:\Users\hari prasad\AppData\Local\hyper\app-3.0.2\resources\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2020.2.1\bin;C:\Users\hari prasad\AppData\Local\atom\bin;C:\hadoop\bin;D:\intelliJ\IntelliJ IDEA Community Edition 2020.2.4\bin;C:\Spark\spark\bin;E:\flutter\flutter\bin;C:\Users\hari prasad\AppData\Local\Android\Sdk\tools;C:\Users\hari prasad\AppData\Local\Android\Sdk\platform-tools;D:\WebStorm\WebStorm 2020.3.1\bin;C:\Program Files\Azure Data Studio\bin&quot;;D:\Git\Git\cmd;E:\Maven\apache-maven-3.8.2-bin\apache-maven-3.8.2\bin;E:\PYTHON_BDD\Python Bdd Demo\venv\Scripts;E:\PYTHON_BDD\Python Bdd Demo\venv\Lib\site-packages\allure_commons;E:\allure\allure-2.15.0\allure-2.15.0\bin;C:\Windows.old\Users\hari prasad\AppData\Local\hyper\app-3.0.2\resources\bin;C:\Users\hari prasad\AppData\Local\hyper\app-3.0.2\resources\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2020.2.1\bin;C:\Users\hari prasad\AppData\Local\atom\bin;C:\hadoop\bin;D:\intelliJ\IntelliJ IDEA Community Edition 2020.2.4\bin;C:\Spark\spark\bin;E:\flutter\flutter\bin;C:\Users\hari prasad\AppData\Local\Android\Sdk\tools;C:\Users\hari prasad\AppData\Local\Android\Sdk\platform-tools;D:\WebStorm\WebStorm 2020.3.1\bin;C:\Program Files\Azure Data Studio\bin&quot;;D:\Git\Git\cmd;E:\Maven\apache-maven-3.8.2-bin\apache-maven-3.8.2\bin;E:\PYTHON_BDD\Python Bdd Demo\venv\Scripts;E:\PYTHON_BDD\Python Bdd Demo\venv\Lib\site-packages\allure_commons;E:\allure\allure-2.15.0\allure-2.15.0\bin;C:\Program Files\dotnet\;C:\Windows.old\Users\hari prasad\AppData\Local\hyper\app-3.0.2\resources\bin;C:\Users\hari prasad\AppData\Local\hyper\app-3.0.2\resources\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2020.2.1\bin;C:\Users\hari prasad\AppData\Local\atom\bin;C:\hadoop\bin;D:\intelliJ\IntelliJ IDEA Community Edition 2020.2.4\bin;;C:\Spark\spark\bin;E:\flutter\flutter\bin;C:\Users\hari prasad\AppData\Local\Android\Sdk\tools;C:\Users\hari prasad\AppData\Local\Android\Sdk\platform-tools;;D:\WebStorm\WebStorm 2020.3.1\bin;;C:\Program Files\Azure Data Studio\bin;C:\Users\hari prasad\.dotnet\tools;."/>
+    <property name="maven.conf" value="E:\Maven\apache-maven-3.8.2-bin\apache-maven-3.8.2/conf"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="59.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.net.preferIPv4Stack" value="true"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\hari prasad"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.specification.version" value="15"/>
+    <property name="user.name" value="hari prasad"/>
+    <property name="java.class.path" value="E:\Maven\apache-maven-3.8.2-bin\apache-maven-3.8.2\boot\plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.version" value="15"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher test verify -Dcucumber.options=--tags @deleteplace"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-15.0.1"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.version" value="15.0.1"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="E:\Maven\apache-maven-3.8.2-bin\apache-maven-3.8.2"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.version.date" value="2020-10-20"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="Place API Validation" name="Verify if delete place functionality is working" time="12.425"/>
+</testsuite>
